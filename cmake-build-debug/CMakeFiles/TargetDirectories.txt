@@ -1,0 +1,3 @@
+C:/Users/welaur/Desktop/inventory/cmake-build-debug/CMakeFiles/inventory.dir
+C:/Users/welaur/Desktop/inventory/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/welaur/Desktop/inventory/cmake-build-debug/CMakeFiles/rebuild_cache.dir
